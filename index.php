@@ -1,1 +1,3 @@
-<?php echo 'It works'; ?>
+<?php
+  echo '<h1>Yeah, it works!<h1>';
+?>
