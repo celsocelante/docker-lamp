@@ -9,7 +9,7 @@ Enter the following command to start your containers:
 $ docker-compose up -d
 ```
 
-To stop, use this:
+To stop them, use this:
 ```bash
 $ docker-compose down
 ```
