@@ -1,5 +1,6 @@
 
-# How To Use
+# Docker Lamp
+## Instructions
 
 Enter the following command to start your containers:
 ```bash
