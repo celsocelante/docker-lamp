@@ -7,7 +7,7 @@ web:
    links:
      - db
    volumes:
-     - $PWD:/app
+     - ./:/app
 
 db:
   image: mariadb
