@@ -1,5 +1,8 @@
 
 # Docker Lamp
+Linux + Apache + MariaDB (MySQL) + PHP 5 on Docker Compose.
+.htaccess enabled by default.
+
 ## Instructions
 
 Enter the following command to start your containers:
