@@ -1,6 +1,6 @@
 
 # Docker LAMP
-Linux + Apache + MariaDB (MySQL) + PHP 5 on Docker Compose. htaccess enabled by default.
+Linux + Apache + MariaDB (MySQL) + PHP 5 on Docker Compose. Mod_rewrite enabled by default.
 
 ## Instructions
 
