@@ -11,5 +11,5 @@ $ docker-compose up -d
 
 To stop them, use this:
 ```bash
-$ docker-compose down
+$ docker-compose stop
 ```
