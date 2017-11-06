@@ -13,3 +13,5 @@ To stop them, use this:
 ```bash
 $ docker-compose stop
 ```
+
+Feel free to make pull requests and help to improve this.
