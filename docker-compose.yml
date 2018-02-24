@@ -1,5 +1,5 @@
 web:
-   image: tutum/apache-php
+   image: php:7.2-apache
    environment:
      - ALLOW_OVERRIDE=true
    ports:
@@ -7,7 +7,7 @@ web:
    links:
      - db
    volumes:
-     - ./app:/app
+     - ./app:/var/www/html/
 
 db:
   image: mariadb
